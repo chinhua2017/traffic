@@ -29,6 +29,7 @@ window.webviewBuy.pay("json")
 ```
 
 json参数定义：
+
 | value | type | desc | exp |
 | ----- | ---- | ---- | --- |
 | orderId | string | 自有订单号 | |
@@ -50,6 +51,7 @@ webView.loadUrl("javascript:payEnd(\"" + result + "\")");
 ```
 
 result定义:
+
 | value | desc |
 | ----- | ---- |
 | suc   | 支付成功 |

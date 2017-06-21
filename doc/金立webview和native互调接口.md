@@ -1,4 +1,4 @@
-### 金立webview和native互掉接口
+### 金立webview和native互调接口
 
 #### 1. native设置JS接口
 

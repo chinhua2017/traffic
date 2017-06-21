@@ -35,6 +35,7 @@ json参数定义：
 | orderId | string | 自有订单号 | |
 | phone | string | 电话 | |
 | title | string | 标题 | 30M |
+| desc | string | 描述信息 | 全国可用，当月有效，月底失效 |
 | price | float | 卖出价 | 2.85 |
 | originalPrice | float | 官方价 | 3 |
 | payType | int | 支付类型 | 0: 支付宝，1：微信 |
